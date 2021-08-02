@@ -11,6 +11,15 @@ Unity version 2020.3.13f1
 - 'git clone https://github.com/DiplomarbeitPCM/Diplomarbeit' ausführen und dich mit deinem github account anmelden, falls gefragt wird
 - in der unity hub bei Projects>Add klicken und den Ordner hinzufügen
 
+## Repository-Regeln
+
+Ticket = Branch
+Branchname sollte folgendermaßen sein: <ticketnummer>-kurze-beschreibung
+
+bitte die branches für die tickets vom main branch machen
+  
+Wenn das ticket fertig ist und es funktioniert und COMMITET -> pull Request und selbstständig mergen oder einen 2. testen lassen
+
 ## Spiel
 
 DungeonCrawler
