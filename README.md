@@ -4,6 +4,15 @@
 
 Unity version 2020.3.13f1
 
+## Installationshinweis
+
+- git herunterladen https://git-scm.com/
+- lokalen Ordner erstellen und mit der Command Line (CMD) dorthin gehen
+- 'git clone https://github.com/DiplomarbeitPCM/Diplomarbeit' ausführen und dich mit deinem github account anmelden, falls gefragt wird
+- in der unity hub bei Projects>Add klicken und den Ordner hinzufügen
+
+## Spiel
+
 DungeonCrawler
 
 Schreiben:
